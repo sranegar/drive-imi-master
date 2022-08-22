@@ -9,7 +9,5 @@ Collaboration with imi developement & marketing teams to design and develop a co
 - Next.js
 - Semantic UI React
 
-This is a link to an example page hosted by Vercel to showcase our work. This is not the official page: 
-
-[drive-imi-master.vercel.app](drive-imi-master.vercel.app)
+*The provided link is not the official company page. Used only to showcase my work. 
 
