@@ -1,5 +1,5 @@
 ## Drive IMI 
-<img align="left" alt="MySql" width="72px" src="imi.png" />
+
 
 Collaboration with imi developement & marketing teams to design and develop a company landing page to increase job growth. 
 
