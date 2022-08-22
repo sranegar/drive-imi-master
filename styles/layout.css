@@ -1,0 +1,155 @@
+.link {
+  color: #000;
+  /* cursor: pointer; */
+}
+
+.mobile {
+  display: none !important;
+}
+
+.tablet {
+  display: none !important;
+}
+
+ 
+
+@media screen and (max-width: 1600px) {
+  .cta {
+    top: 100px !important;
+  }
+
+  .landingWrapper {
+    top: 100px !important;
+  }
+}
+ 
+
+@media screen and (max-width: 991px) {
+  .desktop {
+    display: none !important;
+  }
+
+  .tablet {
+    display: flex !important;
+  }
+
+  .tablet-desktop {
+    display: flex !important;
+  }
+
+  .hero {
+    background-position: 65% 30% !important;
+    background-image: linear-gradient(to bottom, rgba(190, 126, 126, 0.116), rgba(0, 0, 0, 0.265)), url('../public/hero.JPG') !important;
+  }
+
+  .landingHero {
+    background-position: 22% 30% !important;
+    background-image: linear-gradient(to bottom, rgba(190, 126, 126, 0.116), rgba(0, 0, 0, 0.265)),
+      url('../public/poster-truck.png') !important;
+  }
+
+  .landingCta {
+    font-size: 60px !important;
+    line-height: 1.1 !important;
+  }
+
+  .cta {
+    position: relative !important;
+    font-size: 60px !important;
+    text-align: center;
+    margin: 0 auto !important;
+    max-width: 900px;
+    top: 80px !important;
+    line-height: 1.2 !important;
+  }
+
+  .heroBtn {
+    margin-top: 30px !important;
+  }
+
+  .benefitsDescription {
+    min-height: 100px;
+  }
+
+  
+  .bodyColumn {
+    padding: 0px 0 20px 0 !important;
+  }
+
+  .navDividers {
+    padding: 0px !important;
+  }
+
+   
+  .links-wrapper {
+   
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+  }
+
+}
+ 
+
+@media screen and (max-width: 425px) {
+  .mobile {
+    display: flex !important;
+  }
+
+  .desktop {
+    display: none !important;
+  }
+
+  .tablet {
+    display: none !important;
+  }
+
+  .tablet-desktop {
+    display: none !important;
+  }
+
+  .bodyColumn {
+    padding: 20px 0 60px 0 !important;
+  }
+
+  .bodyGrid {
+    padding-top: 0;
+  }
+
+  .cta {
+    font-size: 52px !important;
+    top: 140px !important;
+    text-align: center;
+  }
+
+  .landingWrapper {
+    top: 140px !important;
+  }
+
+  .landingHero {
+    padding: 14px !important;
+    background-position: 20% !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.116), rgba(0, 0, 0, 0.265)), url('../public/poster-truck.png') !important;
+  }
+
+  .landingBtn {
+    margin-top: 0px !important;
+  }
+
+  .hero {
+    background-position: 65% !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.116), rgba(0, 0, 0, 0.265)), url('../public/hero.JPG') !important;
+  }
+
+  .heroBtn {
+    background-color: #ea0029 !important;
+    margin-top: 45px !important;
+  }
+
+  .bannerText {
+    font-size: 45px !important;
+  }
+
+  .testimonialQuote{
+    font-size: 23px !important;
+  }
+}

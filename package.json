@@ -1,0 +1,23 @@
+{
+  "name": "imi-driveimi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "next dev -p 4000",
+    "build": "next build && next export",
+    "test": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.1.6",
+    "next-videos": "^1.4.0",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint": "8.15.0",
+    "eslint-config-next": "12.1.6"
+  }
+}

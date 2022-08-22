@@ -1,0 +1,47 @@
+.hero {
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.095), rgb(0, 0, 0, 0.095)), url('../public/hero.JPG');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position-y: 80%;
+}
+
+ 
+.heroBtn:hover {
+  background-color: #cf031e !important;
+}
+
+.bodyPrimaryBtn:hover {
+  background-color: #cf031e !important;
+}
+
+.benefits {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0),
+    rgba(255, 255, 255, 0.596),
+    rgba(255, 255, 255, 0.888),
+    rgba(255, 255, 255, 0.979),
+    rgb(255, 255, 255)
+  ) !important;
+}
+
+.bannerBtn:hover {
+  background-color: #ececec !important;
+}
+
+.icon {
+  text-shadow: -4px 4px 2px #6969691c;
+}
+
+.footerLinks:hover {
+  color: black !important;
+}
+
+@media screen and (max-width: 1160px) {
+  .benefits {
+    margin-bottom: -7vh !important;
+  }
+}
