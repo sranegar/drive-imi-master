@@ -1,7 +1,5 @@
 ## Drive IMI 
 
-<img src="drive-imi.JPG" />
-
 Collaboration with imi developement & marketing teams to design and develop a company landing page to increase job growth. 
 
 ### Tools 
