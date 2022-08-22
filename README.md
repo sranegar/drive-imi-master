@@ -11,5 +11,5 @@ Collaboration with imi developement & marketing teams to design and develop a co
 
 https://drive-imi-master.vercel.app/
 
-*The provided link is not the official company page. Used only to showcase my work. 
+_The provided link is not the official company page and only being used to showcase our work_
 
